@@ -1,4 +1,4 @@
-# aix2024
+# AI + X [2024]
 
 1. [[DOI](https://doi.org/10.3390/s24051634) [CODE](https://github.com/lab-rasool/MINDS)] **Building Flexible, Scalable, and Machine Learning-ready Multimodal Oncology Datasets.**    
    *Sensors* 24, no. 5 (2024): 1634.  
